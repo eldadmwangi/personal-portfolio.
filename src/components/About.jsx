@@ -20,7 +20,7 @@ function About() {
             ‌able‌ ‌to‌ ‌adapt‌ ‌to‌‌ new‌ ‌environments‌ ‌quickly. I have been
             working on designing ‌and‌ ‌developing‌ ‌software‌ ‌solutions‌ ‌for‌
             ‌clients‌ ‌using‌‌ React.‌ ‌Creating‌ ‌test‌ ‌plans‌ ‌and‌
-            ‌Carrying‌ ‌out‌ ‌manual‌ ‌and‌ ‌automated‌ ‌tests. amdmn
+            ‌Carrying‌ ‌out‌ ‌manual‌ ‌and‌ ‌automated‌ ‌tests.
           </p>
           <div className="flex justify-center">
             <a
