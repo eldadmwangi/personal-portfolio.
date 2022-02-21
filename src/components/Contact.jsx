@@ -53,15 +53,14 @@ function Contact() {
               <h2 className="title-font font-semibold text-white tracking-widest text-xs">
                 EMAIL
               </h2>
-              <a className="text-indigo-400 leading-relaxed">
-                <a
-                  href="mailto:eldadmwangi@gmail.com"
+              <a  href="mailto:eldadmwangi@gmail.com"
                   target="_blank"
                   rel="noreferrer"
-                >
+                  className="text-indigo-400 leading-relaxed">
+                
                   eldadmwangi@gmail.com
                 </a>
-              </a>
+            
               <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
                 PHONE
               </h2>
@@ -92,7 +91,6 @@ function Contact() {
             <input
               id="name"
               type="text"
-              id="name"
               name="name"
               onChange={(e) => setName(e.target.value)}
               className="w-full bg-gray-800 rounded border border-gray-700 focus:border-indigo-500 focus:ring-2 focus:ring-indigo-900 text-base outline-none text-gray-100 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out"
@@ -103,7 +101,6 @@ function Contact() {
               Email
             </label>
             <input
-              id="email"
               type="email"
               id="email"
               name="email"
