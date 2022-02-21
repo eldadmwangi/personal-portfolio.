@@ -25,7 +25,7 @@ function Contact() {
   }
 
   return (
-    <section id="conctact">
+    <section id="contact">
       <div className=" container px-5 py-10 mx-auto flex sm:flex-nowrap flex-wrap ">
         <div className="lg:w-2/3 md:w-1/2 bg-gray-900 rounded-lg overflow-hidden sm:mr-10 p-10 flex items-end justify-start relative">
           <iframe
@@ -54,17 +54,26 @@ function Contact() {
                 EMAIL
               </h2>
               <a className="text-indigo-400 leading-relaxed">
-                eldadmwangi@gmail.com
+                <a
+                  href="mailto:eldadmwangi@gmail.com"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  eldadmwangi@gmail.com
+                </a>
               </a>
               <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
                 PHONE
               </h2>
-              <p className="leading-relaxed">+254-715-056-130</p>
+              <a href="tel:+254-715-056-130">
+                {" "}
+                <p className="leading-relaxed">254-715-056-130</p>{" "}
+              </a>
             </div>
           </div>
         </div>
         <form
-          netlify
+          netlify="true"
           name="contact"
           onSubmit={handleSubmit}
           className="lg:w-1/3 md:w-1/2 flex flex-col md:ml-auto w-full md:py-8 mt-8 md:mt-0"
