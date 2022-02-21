@@ -79,6 +79,7 @@ export const testimonials = [
     quote:"From the start of the project, through to completion,Eldad supported us and exceeded our expectations in every way. Not only was our experience personal and friendly, his ability to identify and present our key messages in an imaginative and creative way gave us a huge amount of confidence in him. In many ways Warren understood our client's website needs better than we did and he complimented our vision perfectly. He's reliable, professional and easy to work with. ",
     image:'accounticon.png',
     name:"Karinja",
+    company:"BuildersHub"
   }
 ]
 
