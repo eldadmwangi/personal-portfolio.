@@ -13,7 +13,7 @@ export const projects = [
     description:
       "A complete ecommerce website with a developed backend and frontend using Django and React",
     image: "react.gif",
-    // link: "https://buildershub.pythonanywhere.com/",
+    link: "https://buildersoptionlimited.com/",
   },
   {
     title: "REST API",
@@ -29,7 +29,7 @@ export const projects = [
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "python.gif",
-    link: "https://pythonbootcamp.com",
+    link: "https://www.buildersoption.com/",
   },
 ];
 
