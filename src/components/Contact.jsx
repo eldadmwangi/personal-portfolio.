@@ -81,7 +81,7 @@ function Contact() {
             Hire Me
           </h2>
           <p className="leading-relaxed mb-5">
-            Fell free to contact me by filling out this form. Also drop any
+            Feel free to contact me by filling out this form. Also drop any
             comments or feedback.
           </p>
           <div className="relative mb-4">

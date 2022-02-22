@@ -48,7 +48,15 @@ export const skills = [
   },
   {
     id: 4,
-    name:"python/Django"
+    name:"python"
+  },
+  {
+    id:5,
+    name:"HTML5/CSS3"
+  },
+  {
+    id:6,
+    name:"Django"
   }
 ]
 
@@ -69,7 +77,7 @@ export const testimonials = [
   },
   {
     id: 3,
-    quote:" Mwangi is a great help managing a very out of date website. Everything we ask him to do is done quickly and efficiently, we would be lost without him  I can’t recommend him highly enough and we look forward to continuing our working relationship together. ",
+    quote:" Mwangi is a great help managing a very out of date website. Everything we ask him to do is done quickly and efficiently, we would be lost without him  I would highly recommend him. We look forward to continuing our working relationship together. ",
     image:'accounticon.png',
     name:"Kevin Kariuki",
     company:"Andella"
