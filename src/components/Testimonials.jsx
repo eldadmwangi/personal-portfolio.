@@ -28,7 +28,7 @@ function Testimonials() {
                     </span>
                     <span className="text-gray-500 text-sm uppercase">
                       <a
-                        href={testimonial.company}
+                        href={testimonial.link}
                         rel="noreferrer"
                         target="_blank"
                       >
