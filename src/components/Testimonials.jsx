@@ -28,7 +28,7 @@ function Testimonials() {
                     </span>
                     <span className="text-gray-500 text-sm uppercase">
                       <a
-                        href="https://andela.com/"
+                        href={testimonial.company}
                         rel="noreferrer"
                         target="_blank"
                       >
