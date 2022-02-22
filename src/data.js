@@ -4,7 +4,7 @@ export const projects = [
     subtitle: "NODEJS_Grapql",
     description:
       "A nodejs and Graphql server with a developed schema to help in running queries and mutations in fetching and updating data ",
-    image: "nodejs.webp",
+    image: "node.jpeg",
     link: "https://github.com/eldadmwangi/graphql-NodeJs-Server",
   },
   {
@@ -27,7 +27,7 @@ export const projects = [
     title: "python",
     subtitle: "Python django",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "An ecommerce website is under development with after the client suggested it was time to rebuild with newer technologies as it was outdated. This is a python django project with a backend and frontend using Django and React",
     image: "python.gif",
     link: "https://www.buildersoption.com/",
   },
