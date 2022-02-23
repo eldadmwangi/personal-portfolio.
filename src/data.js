@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: "React Reserve",
-    subtitle: "NODEJS_Grapql",
+    subtitle: "NODEJS_Graphql",
     description:
       "A nodejs and Graphql server with a developed schema to help in running queries and mutations in fetching and updating data ",
     image: "node.jpeg",
