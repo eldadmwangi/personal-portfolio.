@@ -14,7 +14,7 @@ function About() {
             I‌ am ‌a‌ ‌software‌ ‌developer‌ ‌with‌ ‌2‌ ‌years‌ ‌of‌
             ‌experience‌ ‌in‌ ‌building‌ ‌front-end‌‌ applications.‌ ‌Proven‌
             ‌experience‌ ‌and‌ ‌skills‌ ‌include‌ ‌building‌ ‌web‌
-            ‌applications‌‌ in‌ ‌React‌ ‌and‌ ‌Angular.‌ ‌I‌ ‌also‌ ‌have‌
+            ‌applications‌‌ in‌ ‌React‌.‌ ‌I‌ ‌also‌ ‌have‌
             ‌experience‌ ‌in‌ ‌backend‌ ‌development‌ ‌using‌‌ NodeJs‌ ‌and‌
             ‌Express.‌ ‌I‌ ‌am‌ ‌very‌ ‌flexible‌ ‌with‌ ‌technologies‌ ‌and‌
             ‌able‌ ‌to‌ ‌adapt‌ ‌to‌‌ new‌ ‌environments‌ ‌quickly. I have been
