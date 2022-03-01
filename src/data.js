@@ -11,7 +11,7 @@ export const projects = [
     title: "React Ecommerce",
     subtitle: "React and Python",
     description:
-      "A complete ecommerce website with a developed backend and frontend using Django and React",
+      "An e-commerce website with a developed backend and frontend using Django and React",
     image: "react.gif",
     link: "https://buildersoptionlimited.com/",
   },
