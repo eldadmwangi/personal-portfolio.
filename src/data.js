@@ -85,7 +85,7 @@ export const testimonials = [
       " Mwangi is a great help managing a very out of date website. Everything we ask him to do is done quickly and efficiently, we would be lost without him  I would highly recommend him. We look forward to continuing our working relationship together. ",
     image: "accounticon.png",
     name: "Kevin Kariuki",
-    company: "Andella",
+    company: "Andela",
     link: "https://andela.com/",
   },
   {
