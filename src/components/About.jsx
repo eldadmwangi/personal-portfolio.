@@ -14,13 +14,13 @@ function About() {
             I‌ am ‌a‌ ‌software‌ ‌developer‌ ‌with‌ ‌2‌ ‌years‌ ‌of‌
             ‌experience‌ ‌in‌ ‌building‌ ‌front-end‌‌ applications.‌ ‌Proven‌
             ‌experience‌ ‌and‌ ‌skills‌ ‌include‌ ‌building‌ ‌web‌
-            ‌applications‌‌ in‌ ‌React‌.‌ ‌I‌ ‌also‌ ‌have‌
-            ‌experience‌ ‌in‌ ‌backend‌ ‌development‌ ‌using‌‌ NodeJs‌ ‌and‌
-            ‌Express.‌ ‌I‌ ‌am‌ ‌very‌ ‌flexible‌ ‌with‌ ‌technologies‌ ‌and‌
-            ‌able‌ ‌to‌ ‌adapt‌ ‌to‌‌ new‌ ‌environments‌ ‌quickly. I have been
-            working on designing ‌and‌ ‌developing‌ ‌software‌ ‌solutions‌ ‌for‌
-            ‌clients‌ ‌using‌‌ React.‌ ‌Creating‌ ‌test‌ ‌plans‌ ‌and‌
-            ‌Carrying‌ ‌out‌ ‌manual‌ ‌and‌ ‌automated‌ ‌tests.
+            ‌applications‌‌ in‌ ‌React‌.‌ ‌I‌ ‌also‌ ‌have‌ ‌experience‌ ‌in‌
+            ‌backend‌ ‌development‌ ‌using‌‌ NodeJs‌ ‌and‌ ‌Express.‌ ‌I‌ ‌am‌
+            ‌very‌ ‌flexible‌ ‌with‌ ‌technologies‌ ‌and‌ ‌able‌ ‌to‌ ‌adapt‌
+            ‌to‌‌ new‌ ‌environments‌ ‌quickly. I have been working on designing
+            ‌and‌ ‌developing‌ ‌software‌ ‌solutions‌ ‌for‌ ‌clients‌ ‌using‌‌
+            React.‌ ‌Creating‌ ‌test‌ ‌plans‌ ‌and‌ ‌Carrying‌ ‌out‌ ‌manual‌
+            ‌and‌ ‌automated‌ ‌tests.
           </p>
           <div className="flex justify-center">
             <a

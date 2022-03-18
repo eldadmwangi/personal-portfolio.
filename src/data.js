@@ -19,7 +19,7 @@ export const projects = [
     title: "REST API",
     subtitle: "NodeJS, MongoDB API",
     description:
-      "Nodejs Rest API connected to a Mongodb database.This is an API demonstrating Node's and express power in routing, creating models and use of middleware. It schematically utilizes the use of different middleware and aUthentcates routes with JWT ",
+      "Nodejs Rest API connected to a Mongodb database.This is an API demonstrating Node's and express power in routing, creating models and use of middleware. It schematically utilizes the use of different middleware and authenticates routes with JWT ",
     image: "mynode.gif",
     link: "https://github.com/eldadmwangi/node-rest-api",
   },
@@ -29,6 +29,14 @@ export const projects = [
     description:
       "An ecommerce website is under development after the client suggested it was time to rebuild with newer technologies as it was outdated. This is a python django project with a backend and frontend using Django and React",
     image: "python.gif",
+    link: "https://www.buildersoption.com/",
+  },
+  {
+    title: "Selenium",
+    subtitle: "Selenium Automation",
+    description:
+      "I have experience in Manual & Automated Testing of GUI and functional aspects of client-server and web based applications. Experience in creating test scripts using Selenium WebDriver,selenium IDE, and Selenium Grid. I have created scripts for testing the functionality of the website and also for testing the functionality of the API. ",
+    image: "selenium.jpeg",
     link: "https://www.buildersoption.com/",
   },
 ];
@@ -85,7 +93,7 @@ export const testimonials = [
       " Mwangi is a great help managing a very out of date website. Everything we ask him to do is done quickly and efficiently, we would be lost without him  I would highly recommend him. We look forward to continuing our working relationship together. ",
     image: "accounticon.png",
     name: "Kevin Kariuki",
-    company: "Andela",
+    company: "Andegla",
     link: "https://andela.com/",
   },
   {
