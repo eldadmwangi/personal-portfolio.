@@ -11,7 +11,7 @@ function About() {
             I'm a Front-End Developer
           </h1>
           <p className="mb-8 leading-relaxed">
-            I‌ am ‌a‌ ‌software‌ ‌developer‌ ‌with‌ ‌2‌ ‌years‌ ‌of‌
+            I‌ am ‌a‌ ‌software‌ ‌developer‌ ‌with‌ ‌3‌ ‌years‌ ‌of‌
             ‌experience‌ ‌in‌ ‌building‌ ‌front-end‌‌ applications.‌ ‌Proven‌
             ‌experience‌ ‌and‌ ‌skills‌ ‌include‌ ‌building‌ ‌web‌
             ‌applications‌‌ in‌ ‌React‌.‌ ‌I‌ ‌also‌ ‌have‌ ‌experience‌ ‌in‌
